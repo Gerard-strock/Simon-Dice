@@ -121,7 +121,7 @@ const celeste = document.getElementById('celeste')
         }
 
         ganoElJuego() {
-          swal('Platzi', 'Felicidades, ganaste el juego!', 'success')
+          swal('Platzi :)', 'Felicidades, ganaste el juego!', 'success')
           .then(this.inicializar)
         }
 
